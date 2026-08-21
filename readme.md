@@ -142,16 +142,14 @@ makyneta@studio:~$ ./check-status.sh
 ❯ curl --request POST https://api.makyneta.com/v1/contact   --header 'Content-Type: application/json'   --data '{
     "website": "https://makyneta.github.io",
     "email": "makyneta@tutamail.com",
-    "phone": "+351933338431",
-    "whatsapp": "https://wa.me/351933338431",
+    "whatsapp": "https://wa.me/351913936776",
     "location": "Leiria / Marinha Grande, Portugal"
   }'
 ```
 
 - **🌐 Portfolio:** [makyneta.github.io](https://makyneta.github.io)
-- **📷 Photo Portfolio:** [makyneta.github.io/photo](https://makyneta.github.io/photo)
 - **📧 Email:** [makyneta@tutamail.com](mailto:makyneta@tutamail.com)
-- **💬 WhatsApp:** [+351 933 338 431](https://wa.me/351933338431)
+- **💬 WhatsApp:** [+351 91 393 6776](https://wa.me/351913936776)
 
 ---
 
