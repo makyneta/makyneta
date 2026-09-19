@@ -1,17 +1,5 @@
 # 🚀 Tomás Mota — Fullstack Software Engineer & Systems Architect
 
-```shell
-               ██                           ██                               
-               ██                           ██                               
- █████████████ ████████    ████████  ██   ████████  ████████  ████████    ██████ 
-██    ██    ██      ██    ██    ██   ██  ██    ██  ██    ██   ██    ██   ██    ██
-██    ██    ██  ███████   ████████   ██  ██    ██  ████████   ██    ██   ████████
-██    ██    ██ ██   ██    ██         ██  ██    ██  ██         ██    ██   ██      
-██    ██    ██  ████████   ███████   ██   ███████   ███████   ██    ██    ███████
-                                     ██                                      
-                                 █████                                       
-```
-
 ```zsh
 ❯ neofetch --os "Arch Linux x86_64" --kernel "6.10.5-zen"
 ```
@@ -142,15 +130,9 @@ makyneta@studio:~$ ./check-status.sh
 ❯ curl --request POST https://api.makyneta.com/v1/contact   --header 'Content-Type: application/json'   --data '{
     "website": "https://makyneta.github.io",
     "email": "makyneta@tutamail.com",
-    "whatsapp": "https://wa.me/351913936776",
     "location": "Leiria / Marinha Grande, Portugal"
   }'
 ```
-
-- **🌐 Portfolio:** [makyneta.github.io](https://makyneta.github.io)
-- **📧 Email:** [makyneta@tutamail.com](mailto:makyneta@tutamail.com)
-- **💬 WhatsApp:** [+351 91 393 6776](https://wa.me/351913936776)
-
 ---
 
 <div align="center">
