@@ -128,8 +128,8 @@ makyneta@studio:~$ ./check-status.sh
 
 ```zsh
 ❯ curl --request POST https://api.makyneta.com/v1/contact   --header 'Content-Type: application/json'   --data '{
-    "website": "https://makyneta.github.io",
-    "email": "makyneta@tutamail.com",
+    "website": "https://www.makyneta.dev",
+    "email": "tomas@makyneta.dev",
     "location": "Leiria / Marinha Grande, Portugal"
   }'
 ```
